@@ -1,0 +1,16 @@
+
+	# Wtf
+		humanstxt.org
+
+	# Author
+		Samuel Ondrek
+		twitter.com/@ondrek
+		about.me/ondrek
+		ondrek.com
+		github.com/ondrek
+		
+	# Technologies
+		HTML5, CSS3
+		Bootstrap, jQuery, Modernirz
+		Github, Git
+		Macbook, TextMate2
