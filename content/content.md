@@ -1,0 +1,14 @@
+Short facts
+
+Slovakia (Slovak Republic) is landlocked state in Central Europe. It has a population of over 5 million people and is bordered by the Austria, Czech Republic, Poland, Ukraine and Hungary. Slovakia is a member state of the EU, NATO, United Nations, OECD, WTO and Schengen. Capital is Bratislava. Slovakia has one of the fastest growth rates in the EU and OECD.
+
+History
+
+The Slavs were people who spoke Slavic (be. Slavonic) language about 2000 years ago. They probably lived north-east of today's Slovakia. Historians assume that Slovakia's territory began to reach present-day territory between 500CE ~ 600CE. The ancient language has been separated into Slovak, Polish, Rusyn, Croatina, Russian - over a dozen altogether. Slovakia raised not only great scientists in past as Joseph Murgas (with patents like Apparatus for Wireless Telegraphy, The Way of Transmitted Messages by Wireless Telegraphy, The Wave Meter and many others), Milan Rastislav Stefanik (politician, diplomat, astronomer, General in the French Army and Czechoslovak Minister of War) or Aurel Stodola (enabled the construction of steam and gas turbines).
+
+Sport
+
+From Slovakia is many famous athletes and players as Martin Skrtel, Vladimir Weiss, Peter Bondra, Pavol Demitra, Marian Gaborik, Zdeno Chara, Miroslav Satan or Peter Stastny or Lubomir Visnovsky. Also Karol Bech or Karol Kucera. In last few years Slovakia have won gold (2002), bronze (2003), 4th (2004), 5th (2005), silver (2012) in Ice Hockey.
+
+Language
+
