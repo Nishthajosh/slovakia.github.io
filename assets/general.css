@@ -1,18 +1,16 @@
-	
-	@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,300&subset=latin,cyrillic');
-	
-	
+
+
 	/* typography */
-	
+
 	
 		html, body, h1, h2, h3 {
-			font-family: 'Open Sans';
+            font-family: "Roboto Slab", Georgia, serif;
 			font-weight: 300;
 		}
 	
 		html, body {
-			font-size: 14px;
-			line-height: 23px;
+            font-size: 18px;
+            line-height: 34px;
 		}
 	
 		h1, h2 {
@@ -36,12 +34,12 @@
 		}
 		
 		.arrow {
-			position: fixed;
-			z-index: 3000;
-			width: 35px;
-			right: 99px;
-			top: 400px;
-			opacity: 0.4;
+            position: fixed;
+            z-index: 3000;
+            width: 66px;
+            right: 43px;
+            bottom: 43px;
+            opacity: 0.8;
 		}
 	
 	
@@ -55,18 +53,18 @@
 		}	 
 	
 		.welcome.parallax {
-			height: 1000px; 
-			background: url(resource_1.jpg) 50% 0 no-repeat fixed; 
+			height: 1600px;
+			background: url(image1.jpg) 50% 0 no-repeat fixed;
 		}
 
 		.newsandcontact.parallax {
-			height: 800px; 
-			background: white; 
+			height: 600px;
+			background: white;
 		}
 	
 		.trenager.parallax {
 			height: 723px;
-			background: url(resource_2.jpg) 50% 0 no-repeat fixed; 
+			background: url(image2.jpg) 50% 0 no-repeat fixed;
 		}
 		
 		.trenager .wrapper {
@@ -74,29 +72,28 @@
 		}
 	
 		.academy.parallax {
-			height: 659px;
-			background: #FFF;
-			padding-top: 30px;
+			height: 320px;
+			background: #F0F0F0;
 		}
 	
 		.greencard.parallax {
 			height: 700px;
-			background: url(resource_3.jpg) 50% 0 no-repeat fixed; 
+			background: url(image3.jpg) 50% 0 no-repeat fixed;
 		}
 	
 		.shop.parallax {
-			height: 900px;
-			background: white;
+			height: 400px;
+			background: #F0F0F0;
 		}
 	
 		.blank.parallax {
-			height: 2000px;
-			background: url(resource_4.jpg) 50% 0 no-repeat fixed; 
+			height: 500px;
+			background: url(image4.jpg) 50% 0 no-repeat fixed;
 		}
 	
 		.contact.parallax {
-			height: 2000px;
-			background: white;
+			height: 300px;
+			background: #F0F0F0;
 		}
 	
 	
@@ -113,33 +110,30 @@
 			padding: 10px 80px;
 			max-width: 1200px;
 			height: 100%;
-			border-right: 2px solid #FFF;
 		}
 	
 	/* sections */
 	
 	
 		/* welcome */
-	
-	
-		.welcome { 
-			margin-top: -20px;
-		}
 		
 		.welcome h1,
 		.welcome h2 {
-			text-shadow: 0px 0px 12px #000;
-			color: white;
-			font-size: 20px;
+            color: #FFF;
+            font-weight: 800;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 30px 77px;
+            display: inline-block;
 		}
 	
 		.welcome h1 {
-			padding-top: 400px;
-			margin-left: 100px;
+            font-size: 30px;
+			margin: 400px 100px 0;
 		}
 	
 		.welcome h2 {
-			margin-left: 116px;
+            margin-left: 240px;
+            font-size: 20px;
 		}
 	
 		
@@ -157,93 +151,10 @@
 			padding: 0;
 		}
 		
-		.newsandcontact .maps { 
-			height: 364px;
-			overflow: hidden;
-			display: block;
-		}
-		
-		
-		/* trenager */
-		
-		
-		.trenager .wrapper > div { 
-			width: 50%;
-			float: left;
-			height: 610px;
-			padding: 20px;
-			background: rgba(255, 255, 255, 0.9);
-			overflow: hidden;
-		}
-		
-		.trenager .playgrounds span {
-			margin: 0px 3px;
-			display: inline-block;
-		}
-		
-		
-		/* adademy */
-		
-		
-		.academy .wrapper div {
-			overflow: hidden;
-			padding: 20px;
-		}
-		
-		.academy td {
-			padding: 7px 19px;
-			border: 1px solid #E7E7E7;
-		}
-		
-		.academy thead td {
-			font-weight: 400;
-		}
-		
-		.academy .wrapper div:nth-child(1) p {
-			width: 382px;
-			float: left;
-			margin-right: 50px;
-		}
-		
-		.academy .wrapper div:nth-child(1) table {
-			float: right;
-		}
-		
-		.academy .wrapper div:nth-child(2) p {
-			width: 274px;
-			float: left;
-			margin-right: 50px;
-		}
-		
-		.academy .wrapper div:nth-child(2) table {
-			float: right;
-		}
-		
-		/* greencard */
-		
-		.greencard .wrapper > div { 
-			height: 495px;
-			padding: 20px;
-			background: rgba(255, 255, 255, 0.9);
-			overflow: hidden;
-			margin-top: 70px;
-		}
-		
-		.greencard .floater {
-			width: 50%;
-			float: left;
-		}
-		
-		.greencard .floater:nth-child(2) {
-			padding-right: 40px;
-		}
-		
-		.greencard .floater ol li {
-			list-style: inherit;
-		}
-		
-		.greencard .floater li strong {
-			margin-right: 11px;
+		.newsandcontact img {
+            height: 404px;
+            overflow: hidden;
+            display: block;
 		}
 		
 		/* shop */
@@ -251,18 +162,28 @@
 		.shop h2 {
 			margin: 55px 0 60px 0;
 		}
+
+        .shop .wrapper * {
+            width: 100%;
+            text-align: center;
+        }
 		
-		.shop .floater {
-			float: left;
-			width: 50%;
+		.shop p {
+            max-width: 60%;
+            margin: 0 auto;
 		}
 		
 		.shop img {
 			width: 486px;
 			margin-top: 5px;
 		}
+
+        /* contact section */
 		
-		
+		.contact .wrapper {
+            padding-top: 100px;
+            padding-bottom: 100px;
+            text-align: right;
+        }
 	
 
-	

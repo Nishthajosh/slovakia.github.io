@@ -1,6 +1,3 @@
-# Wtf
-	humanstxt.org
-
 # Author
 	Samuel Ondrek
 	twitter.com/ondrek
